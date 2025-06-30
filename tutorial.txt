@@ -1,0 +1,6 @@
+Para adicionar um novo atributo: 
+    adicionar no addCar do App.jsx
+    adicionar no form do useCarForm.js
+    Se necessário adicionar no options.js
+    Adicionar no handleSubmit e no form do AddCar.jsx
+    Adicionar no form do EditCar.jsx
