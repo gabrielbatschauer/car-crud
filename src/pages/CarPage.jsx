@@ -37,12 +37,8 @@ function CarPage() {
           </section>
         )}
       </article>
-      <article className="bg-blue-700 p-4 col-span-3 md:col-span-2 order-3 md:order-4">
-        Dados do vendedor
-      </article>
-      <aside className="bg-yellow-700 700 p-4 row-span-2 order-4 col-span-3 md:col-span-1 md:order-3">
-        Enviar mensagem
-      </aside>
+      <article className="bg-blue-700 p-4 col-span-3 md:col-span-2 order-3 md:order-4"></article>
+      <aside className="bg-yellow-700 700 p-4 row-span-2 order-4 col-span-3 md:col-span-1 md:order-3"></aside>
     </main>
   );
 }
